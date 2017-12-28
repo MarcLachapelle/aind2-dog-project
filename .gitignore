@@ -5,3 +5,5 @@ lfw/
 __pycache__/
 saved_models/
 *.npz
+*.tar
+*.pth
